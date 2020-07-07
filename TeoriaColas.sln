@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeoriaColas", "TeoriaColas\TeoriaColas.csproj", "{9C76D5A6-2545-4269-84D1-C44A7F331803}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TeoriaColasUCR", "InstaladorTeoriaColas\InstaladorTeoriaColas.vdproj", "{134CE80F-E56F-453F-987D-3935053AC7E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C76D5A6-2545-4269-84D1-C44A7F331803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C76D5A6-2545-4269-84D1-C44A7F331803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C76D5A6-2545-4269-84D1-C44A7F331803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C76D5A6-2545-4269-84D1-C44A7F331803}.Release|Any CPU.Build.0 = Release|Any CPU
+		{134CE80F-E56F-453F-987D-3935053AC7E1}.Debug|Any CPU.ActiveCfg = Debug
+		{134CE80F-E56F-453F-987D-3935053AC7E1}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65BC8586-0A9B-4C6B-A55A-4494CC270653}
+	EndGlobalSection
+EndGlobal

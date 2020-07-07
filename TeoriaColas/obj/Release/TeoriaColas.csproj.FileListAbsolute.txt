@@ -1,0 +1,11 @@
+C:\Users\sebas\OneDrive\Escritorio\terminado\TeoriaColas\TeoriaColas\bin\Release\TeoriaColas.exe.config
+C:\Users\sebas\OneDrive\Escritorio\terminado\TeoriaColas\TeoriaColas\bin\Release\TeoriaColas.exe
+C:\Users\sebas\OneDrive\Escritorio\terminado\TeoriaColas\TeoriaColas\bin\Release\TeoriaColas.pdb
+C:\Users\sebas\OneDrive\Escritorio\terminado\TeoriaColas\TeoriaColas\bin\Release\itextsharp.dll
+C:\Users\sebas\OneDrive\Escritorio\terminado\TeoriaColas\TeoriaColas\bin\Release\itextsharp.xml
+C:\Users\sebas\OneDrive\Escritorio\terminado\TeoriaColas\TeoriaColas\obj\Release\TeoriaColas.Main.resources
+C:\Users\sebas\OneDrive\Escritorio\terminado\TeoriaColas\TeoriaColas\obj\Release\TeoriaColas.Properties.Resources.resources
+C:\Users\sebas\OneDrive\Escritorio\terminado\TeoriaColas\TeoriaColas\obj\Release\TeoriaColas.csproj.GenerateResource.cache
+C:\Users\sebas\OneDrive\Escritorio\terminado\TeoriaColas\TeoriaColas\obj\Release\TeoriaColas.csproj.CopyComplete
+C:\Users\sebas\OneDrive\Escritorio\terminado\TeoriaColas\TeoriaColas\obj\Release\TeoriaColas.exe
+C:\Users\sebas\OneDrive\Escritorio\terminado\TeoriaColas\TeoriaColas\obj\Release\TeoriaColas.pdb

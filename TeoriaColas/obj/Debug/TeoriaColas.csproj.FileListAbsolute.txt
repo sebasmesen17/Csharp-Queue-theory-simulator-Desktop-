@@ -1,0 +1,54 @@
+C:\Users\sebas\OneDrive\Escritorio\metodos\ProyectoMaxi\TeoriaColas\TeoriaColas\obj\Debug\TeoriaColas.csprojAssemblyReference.cache
+C:\Users\sebas\OneDrive\Escritorio\metodos\ProyectoMaxi\TeoriaColas\TeoriaColas\obj\Debug\TeoriaColas.Main.resources
+C:\Users\sebas\OneDrive\Escritorio\metodos\ProyectoMaxi\TeoriaColas\TeoriaColas\obj\Debug\TeoriaColas.Properties.Resources.resources
+C:\Users\sebas\OneDrive\Escritorio\metodos\ProyectoMaxi\TeoriaColas\TeoriaColas\obj\Debug\TeoriaColas.csproj.GenerateResource.cache
+C:\Users\sebas\OneDrive\Escritorio\metodos\ProyectoMaxi\TeoriaColas\TeoriaColas\bin\Debug\TeoriaColas.exe.config
+C:\Users\sebas\OneDrive\Escritorio\metodos\ProyectoMaxi\TeoriaColas\TeoriaColas\bin\Debug\TeoriaColas.exe
+C:\Users\sebas\OneDrive\Escritorio\metodos\ProyectoMaxi\TeoriaColas\TeoriaColas\bin\Debug\TeoriaColas.pdb
+C:\Users\sebas\OneDrive\Escritorio\metodos\ProyectoMaxi\TeoriaColas\TeoriaColas\obj\Debug\TeoriaColas.exe
+C:\Users\sebas\OneDrive\Escritorio\metodos\ProyectoMaxi\TeoriaColas\TeoriaColas\obj\Debug\TeoriaColas.pdb
+C:\Users\sebas\OneDrive\Escritorio\TeoriaColas\TeoriaColas\obj\Debug\TeoriaColas.csprojAssemblyReference.cache
+C:\Users\sebas\OneDrive\Escritorio\TeoriaColas\TeoriaColas\obj\Debug\TeoriaColas.Main.resources
+C:\Users\sebas\OneDrive\Escritorio\TeoriaColas\TeoriaColas\obj\Debug\TeoriaColas.Properties.Resources.resources
+C:\Users\sebas\OneDrive\Escritorio\TeoriaColas\TeoriaColas\obj\Debug\TeoriaColas.csproj.GenerateResource.cache
+C:\Users\sebas\OneDrive\Escritorio\TeoriaColas\TeoriaColas\obj\Debug\TeoriaColas.exe
+C:\Users\sebas\OneDrive\Escritorio\TeoriaColas\TeoriaColas\obj\Debug\TeoriaColas.pdb
+C:\Users\sebas\OneDrive\Escritorio\TeoriaColas\TeoriaColas\bin\Debug\TeoriaColas.exe.config
+C:\Users\sebas\OneDrive\Escritorio\TeoriaColas\TeoriaColas\bin\Debug\TeoriaColas.exe
+C:\Users\sebas\OneDrive\Escritorio\TeoriaColas\TeoriaColas\bin\Debug\TeoriaColas.pdb
+C:\Users\Fabricio Vargas\Documents\Semestre #7\Metodos Cuantitativos\ProyectoFinalProgramado\TeoriaColas\TeoriaColas\obj\Debug\TeoriaColas.csprojAssemblyReference.cache
+C:\Users\Fabricio Vargas\Documents\Semestre #7\Metodos Cuantitativos\ProyectoFinalProgramado\TeoriaColas\TeoriaColas\obj\Debug\TeoriaColas.Main.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #7\Metodos Cuantitativos\ProyectoFinalProgramado\TeoriaColas\TeoriaColas\obj\Debug\TeoriaColas.Properties.Resources.resources
+C:\Users\Fabricio Vargas\Documents\Semestre #7\Metodos Cuantitativos\ProyectoFinalProgramado\TeoriaColas\TeoriaColas\obj\Debug\TeoriaColas.csproj.GenerateResource.cache
+C:\Users\Fabricio Vargas\Documents\Semestre #7\Metodos Cuantitativos\ProyectoFinalProgramado\TeoriaColas\TeoriaColas\obj\Debug\TeoriaColas.exe
+C:\Users\Fabricio Vargas\Documents\Semestre #7\Metodos Cuantitativos\ProyectoFinalProgramado\TeoriaColas\TeoriaColas\obj\Debug\TeoriaColas.pdb
+C:\Users\Fabricio Vargas\Documents\Semestre #7\Metodos Cuantitativos\ProyectoFinalProgramado\TeoriaColas\TeoriaColas\bin\Debug\TeoriaColas.exe.config
+C:\Users\Fabricio Vargas\Documents\Semestre #7\Metodos Cuantitativos\ProyectoFinalProgramado\TeoriaColas\TeoriaColas\bin\Debug\TeoriaColas.exe
+C:\Users\Fabricio Vargas\Documents\Semestre #7\Metodos Cuantitativos\ProyectoFinalProgramado\TeoriaColas\TeoriaColas\bin\Debug\TeoriaColas.pdb
+D:\desca\Telegram Desktop\TeoriaColas\TeoriaColas\TeoriaColas\bin\Debug\TeoriaColas.exe.config
+D:\desca\Telegram Desktop\TeoriaColas\TeoriaColas\TeoriaColas\bin\Debug\TeoriaColas.exe
+D:\desca\Telegram Desktop\TeoriaColas\TeoriaColas\TeoriaColas\bin\Debug\TeoriaColas.pdb
+D:\desca\Telegram Desktop\TeoriaColas\TeoriaColas\TeoriaColas\obj\Debug\TeoriaColas.csprojAssemblyReference.cache
+D:\desca\Telegram Desktop\TeoriaColas\TeoriaColas\TeoriaColas\obj\Debug\TeoriaColas.Main.resources
+D:\desca\Telegram Desktop\TeoriaColas\TeoriaColas\TeoriaColas\obj\Debug\TeoriaColas.Properties.Resources.resources
+D:\desca\Telegram Desktop\TeoriaColas\TeoriaColas\TeoriaColas\obj\Debug\TeoriaColas.csproj.GenerateResource.cache
+D:\desca\Telegram Desktop\TeoriaColas\TeoriaColas\TeoriaColas\obj\Debug\TeoriaColas.exe
+D:\desca\Telegram Desktop\TeoriaColas\TeoriaColas\TeoriaColas\obj\Debug\TeoriaColas.pdb
+D:\desca\Telegram Desktop\TeoriaColas\TeoriaColas\TeoriaColas\bin\Debug\itextsharp.dll
+D:\desca\Telegram Desktop\TeoriaColas\TeoriaColas\TeoriaColas\bin\Debug\itextsharp.xml
+D:\desca\Telegram Desktop\TeoriaColas\TeoriaColas\TeoriaColas\obj\Debug\TeoriaColas.csproj.CopyComplete
+C:\Users\sebas\OneDrive\Escritorio\TeoriaColas\TeoriaColas\bin\Debug\itextsharp.dll
+C:\Users\sebas\OneDrive\Escritorio\TeoriaColas\TeoriaColas\bin\Debug\itextsharp.xml
+C:\Users\sebas\OneDrive\Escritorio\TeoriaColas\TeoriaColas\obj\Debug\TeoriaColas.csproj.CopyComplete
+C:\Users\sebas\OneDrive\Escritorio\terminado\TeoriaColas\TeoriaColas\bin\Debug\TeoriaColas.exe.config
+C:\Users\sebas\OneDrive\Escritorio\terminado\TeoriaColas\TeoriaColas\bin\Debug\TeoriaColas.exe
+C:\Users\sebas\OneDrive\Escritorio\terminado\TeoriaColas\TeoriaColas\bin\Debug\TeoriaColas.pdb
+C:\Users\sebas\OneDrive\Escritorio\terminado\TeoriaColas\TeoriaColas\bin\Debug\itextsharp.dll
+C:\Users\sebas\OneDrive\Escritorio\terminado\TeoriaColas\TeoriaColas\bin\Debug\itextsharp.xml
+C:\Users\sebas\OneDrive\Escritorio\terminado\TeoriaColas\TeoriaColas\obj\Debug\TeoriaColas.csprojAssemblyReference.cache
+C:\Users\sebas\OneDrive\Escritorio\terminado\TeoriaColas\TeoriaColas\obj\Debug\TeoriaColas.Main.resources
+C:\Users\sebas\OneDrive\Escritorio\terminado\TeoriaColas\TeoriaColas\obj\Debug\TeoriaColas.Properties.Resources.resources
+C:\Users\sebas\OneDrive\Escritorio\terminado\TeoriaColas\TeoriaColas\obj\Debug\TeoriaColas.csproj.GenerateResource.cache
+C:\Users\sebas\OneDrive\Escritorio\terminado\TeoriaColas\TeoriaColas\obj\Debug\TeoriaColas.csproj.CopyComplete
+C:\Users\sebas\OneDrive\Escritorio\terminado\TeoriaColas\TeoriaColas\obj\Debug\TeoriaColas.exe
+C:\Users\sebas\OneDrive\Escritorio\terminado\TeoriaColas\TeoriaColas\obj\Debug\TeoriaColas.pdb
